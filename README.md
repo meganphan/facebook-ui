@@ -8,4 +8,4 @@ To install the application (make sure you already have the [Expo](https://apps.a
     cd facebook-ui
     expo start
 
-Scan the QR code from the expo server to get to the app.
+Scan the QR code from localhost:19002 to get to the app or run on iOS simulator on localhost:19000
